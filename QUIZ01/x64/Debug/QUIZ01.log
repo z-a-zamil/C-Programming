@@ -1,0 +1,10 @@
+﻿  TASK_02.cpp
+E:\4th SEMESTER\CSE225\CODE\QUIZ01\stacktype.cpp(32,20): warning C4101: 'exception': unreferenced local variable
+E:\4th SEMESTER\CSE225\CODE\QUIZ01\stacktype.cpp(24): message : while compiling class template member function 'bool StackType<int>::IsFull(void)'
+E:\4th SEMESTER\CSE225\CODE\QUIZ01\stacktype.cpp(40): message : see reference to function template instantiation 'bool StackType<int>::IsFull(void)' being compiled
+E:\4th SEMESTER\CSE225\CODE\QUIZ01\stacktype.cpp(6): message : while compiling class template member function 'StackType<int>::StackType(void)'
+E:\4th SEMESTER\CSE225\CODE\QUIZ01\TASK_02.cpp(6): message : see reference to function template instantiation 'StackType<int>::StackType(void)' being compiled
+E:\4th SEMESTER\CSE225\CODE\QUIZ01\TASK_02.cpp(6): message : see reference to class template instantiation 'StackType<int>' being compiled
+  TASK_03.cpp
+  Generating Code...
+  QUIZ01.vcxproj -> E:\4th SEMESTER\CSE225\CODE\QUIZ01\x64\Debug\QUIZ01.exe

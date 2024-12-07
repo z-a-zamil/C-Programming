@@ -1,0 +1,4 @@
+﻿  Source3.cpp
+E:\4th SEMESTER\CSE225\CODE\MIDTERM\Source3.cpp(54,25): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+E:\4th SEMESTER\CSE225\CODE\MIDTERM\x64\Debug\MIDTERM.exe : fatal error LNK1120: 1 unresolved externals
