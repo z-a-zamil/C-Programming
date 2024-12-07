@@ -1,0 +1,43 @@
+﻿  binarysearchtree.cpp
+  quetype.cpp
+  Source.cpp
+E:\4th SEMESTER\CSE225\CODE\CSE225L_ASSIGNMENT\stacktype.cpp(33,20): warning C4101: 'exception': unreferenced local variable
+E:\4th SEMESTER\CSE225\CODE\CSE225L_ASSIGNMENT\stacktype.cpp(25): message : while compiling class template member function 'bool StackType<ItemType>::IsFull(void)'
+          with
+          [
+              ItemType=int
+          ]
+E:\4th SEMESTER\CSE225\CODE\CSE225L_ASSIGNMENT\stacktype.cpp(41): message : see reference to function template instantiation 'bool StackType<ItemType>::IsFull(void)' being compiled
+          with
+          [
+              ItemType=int
+          ]
+E:\4th SEMESTER\CSE225\CODE\CSE225L_ASSIGNMENT\stacktype.cpp(40): message : while compiling class template member function 'void StackType<ItemType>::Push(ItemType)'
+          with
+          [
+              ItemType=int
+          ]
+E:\4th SEMESTER\CSE225\CODE\CSE225L_ASSIGNMENT\binarysearchtree.cpp(290): message : see reference to function template instantiation 'void StackType<ItemType>::Push(ItemType)' being compiled
+          with
+          [
+              ItemType=int
+          ]
+E:\4th SEMESTER\CSE225\CODE\CSE225L_ASSIGNMENT\stacktype.cpp(7): message : while compiling class template member function 'StackType<ItemType>::StackType(void)'
+          with
+          [
+              ItemType=int
+          ]
+E:\4th SEMESTER\CSE225\CODE\CSE225L_ASSIGNMENT\binarysearchtree.cpp(8): message : see reference to function template instantiation 'StackType<ItemType>::StackType(void)' being compiled
+          with
+          [
+              ItemType=int
+          ]
+E:\4th SEMESTER\CSE225\CODE\CSE225L_ASSIGNMENT\binarysearchtree.cpp(8): message : while compiling class template member function 'TreeType<int>::TreeType(void)'
+E:\4th SEMESTER\CSE225\CODE\CSE225L_ASSIGNMENT\Source.cpp(8): message : see reference to function template instantiation 'TreeType<int>::TreeType(void)' being compiled
+E:\4th SEMESTER\CSE225\CODE\CSE225L_ASSIGNMENT\Source.cpp(8): message : see reference to class template instantiation 'TreeType<int>' being compiled
+  stacktype.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 32 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CSE225L_ASSIGNMENT.vcxproj -> E:\4th SEMESTER\CSE225\CODE\CSE225L_ASSIGNMENT\x64\Release\CSE225L_ASSIGNMENT.exe

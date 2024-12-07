@@ -1,0 +1,46 @@
+﻿  binarysearchtree.cpp
+  graphtype.cpp
+  quetype.cpp
+  TASK(02)_2021796642_Zobaer.cpp
+E:\4th SEMESTER\CSE225\CODE\CSE225L_ASSIGNMENT\stacktype.cpp(33,20): warning C4101: 'exception': unreferenced local variable
+E:\4th SEMESTER\CSE225\CODE\CSE225L_ASSIGNMENT\stacktype.cpp(25): message : while compiling class template member function 'bool StackType<VertexType>::IsFull(void)'
+          with
+          [
+              VertexType=char
+          ]
+E:\4th SEMESTER\CSE225\CODE\CSE225L_ASSIGNMENT\stacktype.cpp(41): message : see reference to function template instantiation 'bool StackType<VertexType>::IsFull(void)' being compiled
+          with
+          [
+              VertexType=char
+          ]
+E:\4th SEMESTER\CSE225\CODE\CSE225L_ASSIGNMENT\stacktype.cpp(7): message : while compiling class template member function 'StackType<VertexType>::StackType(void)'
+          with
+          [
+              VertexType=char
+          ]
+E:\4th SEMESTER\CSE225\CODE\CSE225L_ASSIGNMENT\graphtype.cpp(117): message : see reference to function template instantiation 'StackType<VertexType>::StackType(void)' being compiled
+          with
+          [
+              VertexType=char
+          ]
+E:\4th SEMESTER\CSE225\CODE\CSE225L_ASSIGNMENT\graphtype.cpp(117): message : see reference to class template instantiation 'StackType<VertexType>' being compiled
+          with
+          [
+              VertexType=char
+          ]
+E:\4th SEMESTER\CSE225\CODE\CSE225L_ASSIGNMENT\graphtype.cpp(116): message : while compiling class template member function 'void GraphType<char>::DepthFirstSearch(VertexType,VertexType,int &,QueType<char> &)'
+          with
+          [
+              VertexType=char
+          ]
+E:\4th SEMESTER\CSE225\CODE\CSE225L_ASSIGNMENT\TASK(02)_2021796642_Zobaer.cpp(78): message : see reference to function template instantiation 'void GraphType<char>::DepthFirstSearch(VertexType,VertexType,int &,QueType<char> &)' being compiled
+          with
+          [
+              VertexType=char
+          ]
+E:\4th SEMESTER\CSE225\CODE\CSE225L_ASSIGNMENT\TASK(02)_2021796642_Zobaer.cpp(15): message : see reference to class template instantiation 'GraphType<char>' being compiled
+  stacktype.cpp
+  TASK(03)_2021796642_Zobaer.cpp
+  unsortedtype.cpp
+  Generating Code...
+  CSE225L_ASSIGNMENT.vcxproj -> E:\4th SEMESTER\CSE225\CODE\CSE225L_ASSIGNMENT\x64\Debug\CSE225L_ASSIGNMENT.exe
