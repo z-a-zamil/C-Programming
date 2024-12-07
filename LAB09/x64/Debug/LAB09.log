@@ -1,0 +1,8 @@
+﻿  Source.cpp
+E:\4th SEMESTER\CSE225\CODE\LAB09\quetype.cpp(25,20): warning C4101: 'exception': unreferenced local variable
+E:\4th SEMESTER\CSE225\CODE\LAB09\quetype.cpp(17): message : while compiling class template member function 'bool QueType<int>::IsFull(void)'
+E:\4th SEMESTER\CSE225\CODE\LAB09\quetype.cpp(33): message : see reference to function template instantiation 'bool QueType<int>::IsFull(void)' being compiled
+E:\4th SEMESTER\CSE225\CODE\LAB09\quetype.cpp(6): message : while compiling class template member function 'QueType<int>::QueType(void)'
+E:\4th SEMESTER\CSE225\CODE\LAB09\Source.cpp(9): message : see reference to function template instantiation 'QueType<int>::QueType(void)' being compiled
+E:\4th SEMESTER\CSE225\CODE\LAB09\Source.cpp(9): message : see reference to class template instantiation 'QueType<int>' being compiled
+  LAB09.vcxproj -> E:\4th SEMESTER\CSE225\CODE\LAB09\x64\Debug\LAB09.exe
