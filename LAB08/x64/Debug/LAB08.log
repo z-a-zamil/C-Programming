@@ -1,0 +1,12 @@
+﻿  Source.cpp
+E:\4th SEMESTER\CSE225\CODE\LAB08\Source.cpp(93,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\4th SEMESTER\CSE225\CODE\LAB08\Source.cpp(90,7): warning C4101: 'ch': unreferenced local variable
+E:\4th SEMESTER\CSE225\CODE\LAB08\Source.cpp(138,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\4th SEMESTER\CSE225\CODE\LAB08\stacktype.cpp(33,20): warning C4101: 'exception': unreferenced local variable
+E:\4th SEMESTER\CSE225\CODE\LAB08\stacktype.cpp(25): message : while compiling class template member function 'bool StackType<char>::IsFull(void)'
+E:\4th SEMESTER\CSE225\CODE\LAB08\stacktype.cpp(41): message : see reference to function template instantiation 'bool StackType<char>::IsFull(void)' being compiled
+E:\4th SEMESTER\CSE225\CODE\LAB08\stacktype.cpp(7): message : while compiling class template member function 'StackType<char>::StackType(void)'
+E:\4th SEMESTER\CSE225\CODE\LAB08\Source.cpp(88): message : see reference to function template instantiation 'StackType<char>::StackType(void)' being compiled
+E:\4th SEMESTER\CSE225\CODE\LAB08\Source.cpp(88): message : see reference to class template instantiation 'StackType<char>' being compiled
+E:\4th SEMESTER\CSE225\CODE\LAB08\Source.cpp(132): warning C4715: 'Precedence': not all control paths return a value
+  LAB08.vcxproj -> E:\4th SEMESTER\CSE225\CODE\LAB08\x64\Debug\LAB08.exe
