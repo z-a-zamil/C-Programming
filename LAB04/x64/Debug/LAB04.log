@@ -1,0 +1,6 @@
+﻿  main.cpp
+E:\4th SEMESTER\CSE225\CODE\LAB04\main.cpp(123,34): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\4th SEMESTER\CSE225\CODE\LAB04\main.cpp(124,37): warning C4305: 'argument': truncation from 'double' to 'float'
+  studentinfo.cpp
+  Generating Code...
+  LAB04.vcxproj -> E:\4th SEMESTER\CSE225\CODE\LAB04\x64\Debug\LAB04.exe
