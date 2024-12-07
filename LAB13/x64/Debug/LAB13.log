@@ -1,0 +1,38 @@
+﻿  Source.cpp
+E:\4th SEMESTER\CSE225\CODE\LAB13\quetype.cpp(25,20): warning C4101: 'exception': unreferenced local variable
+E:\4th SEMESTER\CSE225\CODE\LAB13\quetype.cpp(17): message : while compiling class template member function 'bool QueType<ItemType>::IsFull(void)'
+          with
+          [
+              ItemType=int
+          ]
+E:\4th SEMESTER\CSE225\CODE\LAB13\quetype.cpp(33): message : see reference to function template instantiation 'bool QueType<ItemType>::IsFull(void)' being compiled
+          with
+          [
+              ItemType=int
+          ]
+E:\4th SEMESTER\CSE225\CODE\LAB13\quetype.cpp(66): message : while compiling class template member function 'void QueType<ItemType>::MakeEmpty(void)'
+          with
+          [
+              ItemType=int
+          ]
+E:\4th SEMESTER\CSE225\CODE\LAB13\quetype.cpp(79): message : see reference to function template instantiation 'void QueType<ItemType>::MakeEmpty(void)' being compiled
+          with
+          [
+              ItemType=int
+          ]
+E:\4th SEMESTER\CSE225\CODE\LAB13\quetype.cpp(6): message : while compiling class template member function 'QueType<ItemType>::QueType(void)'
+          with
+          [
+              ItemType=int
+          ]
+E:\4th SEMESTER\CSE225\CODE\LAB13\binarysearchtree.cpp(7): message : see reference to function template instantiation 'QueType<ItemType>::QueType(void)' being compiled
+          with
+          [
+              ItemType=int
+          ]
+E:\4th SEMESTER\CSE225\CODE\LAB13\binarysearchtree.cpp(7): message : while compiling class template member function 'TreeType<int>::TreeType(void)'
+E:\4th SEMESTER\CSE225\CODE\LAB13\Source.cpp(19): message : see reference to function template instantiation 'TreeType<int>::TreeType(void)' being compiled
+E:\4th SEMESTER\CSE225\CODE\LAB13\Source.cpp(11): message : see reference to class template instantiation 'TreeType<int>' being compiled
+  binarysearchtree.cpp
+  Generating Code...
+  LAB13.vcxproj -> E:\4th SEMESTER\CSE225\CODE\LAB13\x64\Debug\LAB13.exe

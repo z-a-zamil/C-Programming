@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\4th SEMESTER\CSE225\CODE\LAB11\main.cpp(23,12): warning C4101: 'hRem': unreferenced local variable
+  timeStamp.cpp
+  Generating Code...
+  LAB11.vcxproj -> E:\4th SEMESTER\CSE225\CODE\LAB11\x64\Debug\LAB11.exe
