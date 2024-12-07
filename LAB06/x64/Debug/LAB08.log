@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (LAB08.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+E:\4th SEMESTER\CSE225\CODE\LAB06\Source.cpp(78,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\4th SEMESTER\CSE225\CODE\LAB06\Source.cpp(110,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  LAB08.vcxproj -> E:\4th SEMESTER\CSE225\CODE\LAB06\x64\Debug\LAB06.exe
